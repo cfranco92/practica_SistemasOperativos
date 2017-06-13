@@ -1,0 +1,22 @@
+<grupo>
+   <nombre>ramla</nombre>
+   <repositorio>https://cfrancobedoya@bitbucket.org/cfrancobedoya/ramla.git</repositorio>
+   <miembro>
+      <nombre>Cristian Franco Bedoya</nombre>
+      <codigo>201320010010</codigo>
+      <grupo>032</grupo>
+      <email>cfranc11@eafit.edu.co</email>
+   </miembro>
+   <miembro>
+      <nombre>Jose M. Mira Barrientos</nombre>
+      <codigo>201327503010</codigo>
+      <grupo>032</grupo>
+      <email>jmiraba@eafit.edu.co</email>
+   </miembro>
+   <miembro>
+      <nombre>Santiago Vasquez Zuluaga</nombre>
+      <codigo>201327508010</codigo>
+      <grupo>032</grupo>
+      <email>svasqu18@eafit.edu.co</email>
+   </miembro>
+</grupo>
